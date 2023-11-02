@@ -1,3 +1,3 @@
-# Fun-with-stocks
+# Stonks-db
 
-This is me using python for data science and relating it with stocks to make visualize the data for better interpretation!
+Using python for data science and stock market datasets and converting them to comparable one on one charts.
